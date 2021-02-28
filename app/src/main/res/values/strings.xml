@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RSSNewsReader</string>
+    <string name="search_hint">Search News</string>
+    <string name="facebook_app_id">209616236867490</string>
+    <string name="fb_login_protocol_scheme">fb209616236867490</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="site_name">Site name</string>
+    <string name="site_url">https://example.com</string>
+    <string name="add_resource">Add Resource</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+
+</resources>
