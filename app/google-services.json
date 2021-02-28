@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "248505845642",
+    "firebase_url": "https://rss-news-thesis.firebaseio.com",
+    "project_id": "rss-news-thesis",
+    "storage_bucket": "rss-news-thesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248505845642:android:be2e608d3fbc395fabea73",
+        "android_client_info": {
+          "package_name": "com.example.rssnewsreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248505845642-st3omi7qpopodldc1i1pme391qipulha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rssnewsreader",
+            "certificate_hash": "b764b793bd1b77bdb3ef3b9089c740c1e8d31469"
+          }
+        },
+        {
+          "client_id": "248505845642-3d5v3tp209mdo3jo3evf5muku36ghld7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-vQnTPVFjjmP5BYQRHCb5Pvpb6CpH3Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248505845642-3d5v3tp209mdo3jo3evf5muku36ghld7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
